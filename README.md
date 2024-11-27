@@ -1,16 +1,13 @@
-# qrm_mobile
+# QRM Mobile  
 
-A new Flutter project.
+**QRM Mobile** adalah aplikasi resmi dari **PT. Qinar Raya Mandiri**, sebuah perusahaan yang telah beroperasi sejak tahun 2015 dan melayani seluruh wilayah Indonesia.
 
-## Getting Started
+---  
 
-This project is a starting point for a Flutter application.
+### Kontak  
+Untuk informasi lebih lanjut, kunjungi website kami di:  
+[PT. Qinar Raya Mandiri](#)  
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Atau hubungi kami melalui:  
+📧 **email@example.com**  
+📞 **+62 123-456-7890**  
