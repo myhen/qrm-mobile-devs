@@ -33,7 +33,7 @@ dependencies:
     sdk: flutter
   flutter_native_splash: ^2.4.3
   get: ^4.6.6
-  lazyui: ^4.1.8
+  lazyui: ^4.2.1
 
 dev_dependencies:
   flutter_lints: ^4.0.0

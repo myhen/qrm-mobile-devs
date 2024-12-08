@@ -284,10 +284,10 @@ packages:
     dependency: "direct main"
     description:
       name: lazyui
-      sha256: f8a4af7469b5fa801641ede2bc9bf994b999ce044d0c7d6558d694abc103fb24
+      sha256: "2d72270852fc227dbe814f4cb70c8a14943af4f37b56665623f4db700ebfd25a"
       url: "https://pub.dev"
     source: hosted
-    version: "4.1.8"
+    version: "4.2.1"
   leak_tracker:
     dependency: transitive
     description:
